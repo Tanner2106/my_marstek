@@ -1,0 +1,11 @@
+{
+  "domain": "my_marstek",
+  "name": "My Marstek (local API)",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://github.com/marstek/open-api",
+  "integration_type": "device"
+  "iot_class": "local_polling",
+  "requirements": [],
+  "config_flow": true,
+}
